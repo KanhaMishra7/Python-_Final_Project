@@ -58,7 +58,7 @@ Quantity Sold - Sales Amount - City - Date
 
 ### Step 1: Clone the repository
 
-git clone https://github.com/your-username/zepto-sales-analysis.git
+git clone https://github.com/KanhaMishra7/Python-_Final_Project
 
 ### Step 2: Install required libraries
 
@@ -91,5 +91,5 @@ Open: Final Project of python.ipynb
 
 ## 👤 Author
 
-Kanah\
+KRishna Kant\
 Python Data Analysis Project
