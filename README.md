@@ -1,5 +1,4 @@
-<img width="2168" height="2065" alt="image" src="https://github.com/user-attachments/assets/f090df51-9fdf-4775-93ef-1eabb924f1cf" />📊 Final Project – Python
-📌 Project Overview
+📊 Final Project – Python📌 Project Overview
 <img width="2168" height="2065" alt="output" src="https://github.com/user-attachments/assets/a6503063-32be-4f20-8695-3a60c5eb7aa3" />
 
 
