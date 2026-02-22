@@ -90,8 +90,11 @@ Open: Final Project of python.ipynb
 -   Add predictive sales forecasting using Machine Learning
 
 ------------------------------------------------------------------------
-
 ## 👤 Author
 
-KRishna Kant\
+KRishna Kant
+## 📎 Connect with Me
+
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/krishna-kant-08752a369/)
+
 Python Data Analysis Project
