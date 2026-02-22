@@ -1,6 +1,8 @@
 # 🛒 Zepto Sales Data Analysis (Python Project)
 
 ## 📌 Project Overview
+<img width="2168" height="2065" alt="image" src="https://github.com/user-attachments/assets/f1d3002b-4a05-4165-ac64-c86d5fe9797a" />
+
 
 This project performs **sales data analysis** using Python on Zepto
 product and sales datasets.\
