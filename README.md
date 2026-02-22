@@ -1,57 +1,95 @@
-📊 Final Project – Python📌 Project Overview
-<img width="2168" height="2065" alt="output" src="https://github.com/user-attachments/assets/a6503063-32be-4f20-8695-3a60c5eb7aa3" />
+# 🛒 Zepto Sales Data Analysis (Python Project)
 
+## 📌 Project Overview
 
-This project is developed as part of the final Python coursework. It demonstrates the use of Python for data analysis, visualization, and problem-solving using real-world datasets.
+This project performs **sales data analysis** using Python on Zepto
+product and sales datasets.\
+The goal is to analyze sales performance, identify trends, and generate
+visual insights using data visualization techniques.
 
-The project includes:
-
-Data cleaning and preprocessing
-
-Data analysis
-
-Data visualization using Matplotlib
-
-Logical problem-solving using Python concepts
-
-🛠️ Technologies Used
-
-Python 3.x
-
-Jupyter Notebook
-
-Pandas
-
+The project includes: - Data cleaning and preprocessing - Exploratory
+Data Analysis (EDA) - Sales trend analysis - Product performance
+analysis - City-wise sales analysis - Data visualization using
 Matplotlib
 
-NumPy
-📈 Features
+------------------------------------------------------------------------
 
-Sales data analysis
+## 📂 Project Structure
 
-Monthly sales trend visualization
+Zepto-Sales-Analysis/ │ ├── Final Project of python.ipynb ├──
+zepto_products.csv ├── zepto_sales.csv └── README.md
 
-City-wise sales comparison
+------------------------------------------------------------------------
 
-Top-performing products identification
+## 📊 Datasets Used
 
-Leap year logical implementation (if included)
+### 1️⃣ zepto_products.csv
 
-▶️ How to Run the Project
+Contains product-related information such as: - Product ID - Product
+Name - Category - Price
 
-Install Python (3.x recommended)
+### 2️⃣ zepto_sales.csv
 
-Install required libraries:
-🎯 Learning Outcomes
+Contains sales transaction data such as: - Order ID - Product ID -
+Quantity Sold - Sales Amount - City - Date
 
-Understanding of data handling using Pandas
+------------------------------------------------------------------------
 
-Data visualization using Matplotlib
+## 🛠️ Technologies Used
 
-Writing clean and structured Python code
+-   Python 🐍
+-   Pandas
+-   NumPy
+-   Matplotlib
+-   Jupyter Notebook
 
-Applying logical conditions in Python
-👤 Author
+------------------------------------------------------------------------
 
-Krishna Kant
-Python Final Project
+## 📈 Analysis Performed
+
+-   🔹 Top 5 Products by Sales Amount
+-   🔹 Total Sales by City
+-   🔹 Monthly Sales Trend
+-   🔹 Data Visualization (Bar & Line Charts)
+
+------------------------------------------------------------------------
+
+## 🚀 How to Run This Project
+
+### Step 1: Clone the repository
+
+git clone https://github.com/your-username/zepto-sales-analysis.git
+
+### Step 2: Install required libraries
+
+pip install pandas numpy matplotlib
+
+### Step 3: Run the Jupyter Notebook
+
+jupyter notebook
+
+Open: Final Project of python.ipynb
+
+------------------------------------------------------------------------
+
+## 🎯 Key Insights
+
+-   Identified top-performing products
+-   Found highest revenue-generating cities
+-   Observed monthly sales growth patterns
+-   Visualized sales distribution clearly
+
+------------------------------------------------------------------------
+
+## 📌 Future Improvements
+
+-   Add interactive dashboards using Plotly or Power BI
+-   Deploy as a web app using Streamlit
+-   Add predictive sales forecasting using Machine Learning
+
+------------------------------------------------------------------------
+
+## 👤 Author
+
+Kanah\
+Python Data Analysis Project
